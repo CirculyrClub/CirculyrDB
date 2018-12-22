@@ -1,0 +1,29 @@
+[v: 0.4 | 1]
+[c: draft]
+
+[c: Song is 君をのせて "Carrying You" composed by Joe Hisaishi and performed by Azumi Inoue]
+[c: You may know it as the theme from Studio Ghibli's Laputa: Castle in the Sky]
+
+あの地平線輝くのは [t: アノチヘイセンカガヤクノワ "Within the horizon's shine /"]
+どこかに君を隠しているから [t: ドコカニキミヲカクシテイルカラ "You must be hiding somewhere"]
+??? [t: タクサンノヒガナツカシーノワ "???"]
+あのどれか一つに君がいるから [t: アノドレカヒトツニキミガイルカラ "Because I know you are in one of them"]
+
+さあ、出かけよう、ひときれのパン [t: サー、デカケヨー、ヒトキレノパン "Alright, let's head out, with a loaf of bread /"]
+ナイフ、ランプ鞄に詰め込んで [t: ナイフ、ランプカバンニツメコンデ "a knife, and a lamp packed in a bag"]
+
+[r: Chorus]
+父さんの残した熱い思い [t: トーサンノノコシタアツイオモイ "The passion my father left me"]
+母さんのくれたあの眼差し [t: カーサンノクレタアノマナザシ "That look my mother gave me"]
+[s:]
+
+[r: Verse 2]
+地球は回る、君をかくして [t: チキュウワマワルキミヲカクシテ "The earth is spinning, hiding you"]
+輝く瞳、きらめく灯火 [t: カガヤクヒトミ、キラメクトモシビ "Your eyes shining, the light sparkling"]
+地球は回る、君をのせて [t: チキュウワマワルキミヲノセテ "The earth is spinning, carrying you /"]
+何時かきっと出会う僕らをのせて [t: イツカキットデアウボクラヲノセテ "Carrying we who you'll meet someday"]
+[s:]
+
+[g: Chorus]
+
+[g: Verse 2]
